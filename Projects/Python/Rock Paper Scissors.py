@@ -1,4 +1,5 @@
 #By Shubhankar
+#MADE 100% WITHOUT USING HELP OF AI
 import random
 import time
 print('Welcome to Rock Paper Scissors!')
