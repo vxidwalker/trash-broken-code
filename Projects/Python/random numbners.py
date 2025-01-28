@@ -1,3 +1,4 @@
+#MADE 100% WITHOUT USING HELP OF AI
 import random
 
 print('Welcome to the RNG generator!')
