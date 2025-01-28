@@ -1,6 +1,6 @@
 #broken code
 #Hours wasted here: 0.66
-
+#MADE 100% WITHOUT USING HELP OF AI
 
 
 choice=str(input('Would you like to count up or down:'))
